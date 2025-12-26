@@ -1,0 +1,39 @@
+priority: 0
+colorHue: 0.5
+id: ichihito.matchExeSpeed
+ver: 0.1
+url: 
+includesConfigOverrides: false
+includesConfigEdits: true
+includesConfigTrees: false
+includesLibraries: false
+includesTextures: false
+includesLocalizationEdits: false
+includesLocalizations: false
+includesAssetBundles: false
+gameVersion2Compatible: false
+gameVersionMin: 2.0
+gameVersionMax: 
+name: Match Execution Speed
+desc: >-
+  [y=1.2][b]Description[/b][/y]
+
+  This mod matches the time speed in the execution phase with the "slow" speed in the replay phase. Also, it suppresses the easing of the time speed curve.
+
+
+
+  [y=1.2][b]Recommendation[/b][/y]
+
+  - [url=https://github.com/echkode/PhantomBrigadeMod_SilentStart][u]Silent Start (by EchKode)
+  [/u][/url]
+
+
+
+  [y=1.2][b]Known Issues[/b][/y]
+
+  - The time speed of "Full" is shown as "1.00x" on the control bar UI though the actual speed is 0.20x.
+  - This mod linearly slows down the timescale of the execution phase. The execution cannot play at the default "full" speed. It may feel too slow to do it every time.
+
+
+
+  Copyright (c) 2025, Ichihito Ohi

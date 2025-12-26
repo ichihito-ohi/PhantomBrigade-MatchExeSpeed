@@ -1,0 +1,7 @@
+removed: false
+edits:
+- 'timeScaleMain: 0.12'
+- 'timeScaleEaseOutTime: -1.00'
+- 'timeScaleMinEaseOut: -1.00'
+- 'timeScaleEaseOutSpeed: 1.00'
+- 'timeScaleEaseInSpeed: 10.00'

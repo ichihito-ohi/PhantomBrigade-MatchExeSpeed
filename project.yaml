@@ -1,0 +1,26 @@
+workshop: 
+configEdits:
+  dataLinkers:
+  - type: DataLinkerSettingsSimulation
+    file:
+      edits:
+      - path: timeScaleMain
+        value: 0.12
+        operation: Override
+      - path: timeScaleEaseOutTime
+        value: -1.00
+        operation: Override
+      - path: timeScaleMinEaseOut
+        value: -1.00
+        operation: Override
+      - path: timeScaleEaseOutSpeed
+        value: 1.00
+        operation: Override
+      - path: timeScaleEaseInSpeed
+        value: 10.00
+        operation: Override
+  dataMultiLinkers: 
+textEdits: 
+assetBundles: 
+libraryDLLs: 
+extraFiles: 
