@@ -1,3 +1,5 @@
+**[Note: There is a fully superior mod by echkode. Please check that before using this.](https://github.com/echkode/PhantomBrigadeMod_SimulationTimeScaleSetting)**
+
 # Match Execution Speed
 
 This mod matches the time speed in the execution phase with the "slow" speed in the replay phase. Also, it suppresses the easing of the time speed curve.
